@@ -10,8 +10,7 @@ This is an educational project. Which have to show how to work with database via
 - Drivers (show all / add / delete);
 - Manufacturers (show all / add / delete);
 - Add driver to car;
-- Delete driver from car;
-- Display cars for logged driver.
+- Delete driver from car.
 
 # Project represents N-layer architecture
 - Presentation layer;
