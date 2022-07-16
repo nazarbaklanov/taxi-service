@@ -5,19 +5,19 @@
 This is an educational project. Which have to show how to work with database via JDBC, with Java Servlet and divide code into different levels.
 
 # Project has next features:
-- Registration form
-- Cars (show all / add / delete)
-- Drivers (show all / add / delete)
-- Manufacturers (show all / add / delete)
-- Add driver to car
-- Delete driver from car
-- Display cars for logged driver
+- Registration form;
+- Cars (show all / add / delete);
+- Drivers (show all / add / delete);
+- Manufacturers (show all / add / delete);
+- Add driver to car;
+- Delete driver from car;
+- Display cars for logged driver.
 
 # Project represents N-layer architecture
 - Presentation layer;
 - Controller layer;
 - Service layer;
-- Data access layer;
+- Data access layer.
 
 # Database diagram:
 ![diagrama.png](diagrama.png)
@@ -36,9 +36,9 @@ This is an educational project. Which have to show how to work with database via
 - Clone the project from GitHub;
 - Initialise database. Use for that src/main/resources/init_db.sql;
 - Configure database connection. Use for that environment variables: 
-DATABASE_HOST, DATABASE_NAME, DATABASE_USERNAME, DATABASE_PASSWORD;
+DATABASE_HOST, DATABASE_NAME, DATABASE_USERNAME, DATABASE_PASSWORD.
 
-# To launch the application, follow the link
+# To launch the application, follow the link:
 [click here](https://service-taxi-nba.herokuapp.com/)
 
   
