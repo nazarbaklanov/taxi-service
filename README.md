@@ -19,7 +19,7 @@ This is an educational project. Which have to show how to work with database via
 - Data access layer.
 
 # Database diagram:
-![diagrama.png](diagrama.png)
+![diagram.jpg](diagram.jpg)
 
 # Technologies used in project:
 - Java v.11;
