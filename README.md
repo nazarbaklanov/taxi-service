@@ -39,7 +39,7 @@ This is an educational project. Which have to show how to work with database via
 DATABASE_HOST, DATABASE_NAME, DATABASE_USERNAME, DATABASE_PASSWORD;
 
 # To launch the application, follow the link
-[link](https://service-taxi-nba.herokuapp.com/)
+[link]:important (https://service-taxi-nba.herokuapp.com/)
 
   
 
