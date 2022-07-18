@@ -39,5 +39,4 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - Add configurations in TomCat Server.
 - Start the project.
 
-# You can test the APP using the browser of your PC. Click on the link:
-[**--> link**](https://service-taxi-nba.herokuapp.com)
+# You can test the APP using the browser of your PC. Click on the link: [*--> link*](https://service-taxi-nba.herokuapp.com)
