@@ -1,11 +1,11 @@
 ﻿# Taxi-service
 ![taxi_fly.jpg](taxi_fly.jpg)
 
-:pushpin:## Project description:
+:pushpin: ## Project description:
 Taxi Service is a simple web application that simulates the work of a taxi service.
 The project is implemented in Java with SOLID principles & Dependency Injection, has a 3-tier architecture.
 
-:pushpin:## Project has next features:
+:pushpin: ## Project has next features:
 - Display All Drivers
 - Display All Cars
 - Display All Current Cars
@@ -14,12 +14,12 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - Create new Manufacturer
 - Add Driver to Car
 
-:pushpin:## Structure: 3-tier architecture:
+:pushpin: ## Structure: 3-tier architecture:
 - **DAO** - Data Tier
 - **Service** - Business Tier
 - **Controllers** - Presentation Tier
 
-:pushpin:## Database diagram:
+:pushpin: ## Database diagram:
 ![diagram.jpg](diagram.jpg)
 
 :pushpin:## Technologies:
