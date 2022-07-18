@@ -1,11 +1,11 @@
 ﻿# Taxi-service
 ![taxi_fly.jpg](taxi_fly.jpg)
 
-## Project description:
+:pushpin:## Project description:
 Taxi Service is a simple web application that simulates the work of a taxi service.
 The project is implemented in Java with SOLID principles & Dependency Injection, has a 3-tier architecture.
 
-## Project has next features:
+:pushpin:## Project has next features:
 - Display All Drivers
 - Display All Cars
 - Display All Current Cars
@@ -14,15 +14,15 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - Create new Manufacturer
 - Add Driver to Car
 
-## Structure: 3-tier architecture:
+:pushpin:## Structure: 3-tier architecture:
 - **DAO** - Data Tier
 - **Service** - Business Tier
 - **Controllers** - Presentation Tier
 
-## Database diagram:
+:pushpin:## Database diagram:
 ![diagram.jpg](diagram.jpg)
 
-## Technologies:
+:pushpin:## Technologies:
 - Java v.11;
 - Apache Tomcat v.9;
 - MySQL v.8;
@@ -31,7 +31,7 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - JSTL v.1.2;
 - In project used pattern of Dependency Injector.
 
-## Instructions for run project: :oncoming_taxi:
+## Instructions for run project: :rocket:
 - Configure TomСat.
 - Copy, paste and run the script from this file `src/main/resources/init_db.sql` into MySQL.
 - In order to connect to the database it is necessary to add current data in the following fields `URL, USERNAME, PASSWORD, JDBC_DRIVER` in this file `src/main/java/taxi/util/ConnectionUtil.java`.
