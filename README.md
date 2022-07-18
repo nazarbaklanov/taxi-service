@@ -16,9 +16,9 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - Delete Driver from Car
 
 ## Structure: 3-tier architecture:
-- DAO - Data Tier
-- Service - Business Tier
-- Controllers - Presentation Tier
+- **DAO** - Data Tier
+- **Service** - Business Tier
+- **Controllers** - Presentation Tier
 
 ## Database diagram:
 ![diagram.jpg](diagram.jpg)
