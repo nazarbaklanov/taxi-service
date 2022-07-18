@@ -13,7 +13,6 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - Create new Car
 - Create new Manufacturer
 - Add Driver to Car
-- Delete Driver from Car
 
 ## Structure: 3-tier architecture:
 - **DAO** - Data Tier
