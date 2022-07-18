@@ -2,26 +2,28 @@
 ![taxi_fly.jpg](taxi_fly.jpg)
 
 # Project description:
-This is an educational project. Which have to show how to work with database via JDBC, with Java Servlet and divide code into different levels.
+Taxi Service is a simple web application that simulates the work of a taxi service.
+The project is implemented in Java with SOLID principles & Dependency Injection, has a 3-tier architecture.
 
 # Project has next features:
-- Registration form;
-- Cars (show all / add / delete);
-- Drivers (show all / add / delete);
-- Manufacturers (show all / add / delete);
-- Add driver to car;
-- Delete driver from car.
+- Display All Drivers
+- Display All Cars
+- Display All Current Cars
+- Display All Manufacturers
+- Create new Car
+- Create new Manufacturer
+- Add Driver to Car
+- Delete Driver from Car
 
-# Project represents N-layer architecture
-- Presentation layer;
-- Controller layer;
-- Service layer;
-- Data access layer.
+# Structure: 3-tier architecture:
+- DAO - Data Tier
+- Service - Business Tier
+- Controllers - Presentation Tier
 
 # Database diagram:
 ![diagram.jpg](diagram.jpg)
 
-# Technologies used in project:
+# Technologies:
 - Java v.11;
 - Apache Tomcat v.9;
 - MySQL v.8;
@@ -31,14 +33,11 @@ This is an educational project. Which have to show how to work with database via
 - In project used pattern of Dependency Injector.
 
 # Instructions for run project:
-- You should have installed version of Apache Tomcat, MySQL, Git, Maven, Java;
-- Clone the project from GitHub;
-- Initialise database. Use for that src/main/resources/init_db.sql;
-- Configure database connection. Use for that environment variables: 
-DATABASE_HOST, DATABASE_NAME, DATABASE_USERNAME, DATABASE_PASSWORD.
+- Configure TomСat.
+- Copy, paste and run the script from this file src/main/resources/init_db.sql into MySQL. 
+- In order to connect to the database it is necessary to add current data in the following fields URL, USERNAME, PASSWORD, JDBC_DRIVER in this file src/main/java/taxi/util/ConnectionUtil.java.
+- Add configurations in TomCat Server.
+- Start the project.
 
 # You can test the APP using the browser of your PC. Click on the link:
 [--> here <--](https://service-taxi-nba.herokuapp.com)
-
-  
-
