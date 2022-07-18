@@ -38,4 +38,4 @@ The project is implemented in Java with SOLID principles & Dependency Injection,
 - In order to connect to the database it is necessary to add current data in the following fields `URL, USERNAME, PASSWORD, JDBC_DRIVER` in this file `src/main/java/taxi/util/ConnectionUtil.java`.
 - Add configurations in TomCat Server.
 - Start the project.
-- Also you can test the APP using the browser of your PC. Click on the link: [**--> link**](https://service-taxi-nba.herokuapp.com)
+- Also you can test the APP using the browser of your PC. Click on the link: :point_right: [**link**](https://service-taxi-nba.herokuapp.com)
