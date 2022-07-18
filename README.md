@@ -1,7 +1,7 @@
 ﻿# Taxi-service
 ![taxi_fly.jpg](taxi_fly.jpg)
 
-# Project description:
+## Project description:
 Taxi Service is a simple web application that simulates the work of a taxi service.
 The project is implemented in Java with SOLID principles & Dependency Injection, has a 3-tier architecture.
 
